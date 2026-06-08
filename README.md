@@ -286,8 +286,11 @@ By the end of the competition, I aim to:
 ## Author
 
 **Shailesh Pande**
+<br/>
 Computer Engineering Student
+<br/>
 Smt.Kashibai Navale College of Engineering, Pune
+<br/>
 IEEE Computer Society Global Student Challenge 2026 Participant
 
 *"Consistency beats intensity. Small progress every day compounds into significant results."*
