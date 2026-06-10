@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "file": "deploy.yml",
+    "line": 8,
+    "type": "Command Injection",
+    "severity": "HIGH",
+    "snippet": "run: curl ${{ github.event.inputs.url }}"
+  },
+  {
+    "id": 2,
+    "file": "build.yml",
+    "line": 15,
+    "type": "Secret Exposure",
+    "severity": "CRITICAL",
+    "snippet": "echo $SECRET_KEY"
+  }
+]
